@@ -1,0 +1,9 @@
+/* Place your CSS styles in this file */
+
+h1 {
+    text-align: center;
+    font-family: "Source Sans Pro", georgia;
+    font-weight: bold;
+    color:paleturquoise;}
+    body{background-color: pink;}
+    marquee {size:16}
